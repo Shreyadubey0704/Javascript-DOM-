@@ -1,0 +1,16 @@
+/* #heading{
+    color: aqua;
+    text-decoration: dotted;
+} */
+ .heading{
+    color: rgb(149, 255, 0);
+    text-decoration: dotted;
+}
+
+body{
+    background-color: blue;
+}
+
+button{
+    background-color: blueviolet;
+}
